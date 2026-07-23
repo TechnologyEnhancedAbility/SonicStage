@@ -15,10 +15,6 @@
 
 **Venue:** UIST 2026
 
-![Logo 1](static/images/logos/1.png)
-![Logo 3](static/images/logos/3.png)
-![Logo 4](static/images/logos/4.png)
-
 ![Sonic Stage Teaser](static/images/1_Teaser.png)
 
 [Read the paper](https://doi.org/10.1145/3772363.3798425)
