@@ -17,6 +17,8 @@
 
 ![Sonic Stage Teaser](static/images/1_Teaser.png)
 
+The source code will be released upon publication in November.
+
 [Read the paper](https://doi.org/10.1145/3772363.3798425)
 
 ## Video Presentation
